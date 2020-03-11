@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">colorswithspanish</string>
+    <string name="CanvasActivity_title" translatable="false">Canvas Activity</string>
+    <string name="PaletteActivity_title" translatable="false">Palette Activity</string>
+    <string name="changeLang" translatable="false">Change Language</string>
+    <string-array name="colors">
+        <item>Gray</item>
+        <item>Cyan</item>
+        <item>Blue</item>
+        <item>Red</item>
+        <item>Black</item>
+        <item>Green</item>
+        <item>Magenta</item>
+        <item>Yellow</item>
+        <item>Lime</item>
+    </string-array>
+</resources>
